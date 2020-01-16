@@ -1,0 +1,12 @@
+55.0
+10
+David,Smith,76.0
+James,Johnson,44.0
+James,Smith,58.0
+Maria,Garcia,37.0
+Maria,Hernandez,46.0
+Maria,Martinez,46.0
+Maria,Rodriguez,46.0
+Mary,Smith,46.0
+Robert,Smith,46.0
+Michael,Smith,50.0

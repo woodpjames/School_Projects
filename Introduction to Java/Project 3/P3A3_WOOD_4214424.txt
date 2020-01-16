@@ -1,0 +1,70 @@
+Java is a portable language. This means...
+A. A Java program can be run on any computer that has Java Virtual Machine.
+B. Java can only be put on computers that are light enough to carry.
+C. Java is capable of working on any device.
+D. Java is the best programming language for everything.
+A
+
+How do you start a single line comment
+A. ||
+B. &&
+C. %%
+D. //
+D
+
+What does an ! mean in logical programming?
+A. And
+B. Or
+C. Not
+D. Also
+C
+
+A for loop is begun by saying for(x = 1, x<=2, x++). What is x initialized as?
+A. 0
+B. 1
+C. 2
+D. <=2
+B
+
+A method that does not return a value should have what in its definition?
+A. void
+B. String
+C. int
+D. double
+A
+
+When you create a instance of a class using specific data you utilize a ___ method.
+A. Default Constructor
+B. Mutator
+C. Accesor
+D. User-Made Constructor
+D
+
+An array that has 7 elements would have 7 elements numbered...
+A. 1-7
+B. 0-6
+C. Array elements are not numbered.
+D. It is impossible to know.
+B
+
+What would be the correct way to find out if object A equals object B.
+A. A==B;
+B. B==A;
+C. A.equals(B);
+D. It is impossible to know if they equal eachother.
+C
+
+Exception objects are created from classes in
+A. the Java Application Program Interface (API).
+B. a user created file.
+C. the java.util library.
+D. They don't come from anywhere.
+A
+
+A class is made that tells the user the Mass, Velocity, and Momentum of some physical object. (Momentum equals Mass*Velocity) Which of the following would be stale data if made a field?
+A. Mass
+B. Momentum
+C. Velocity
+D. None of the Above
+B
+
