@@ -1,4 +1,4 @@
-# Project 2 - BINGO
+# Project 3 - BINGO
 
 ### CS 0401 — Intermediate Programming using Java
 
